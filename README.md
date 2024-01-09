@@ -1,8 +1,6 @@
 # personal-website
 This is my personal website
 
-![Screenshot 2023-03-06 150317](https://user-images.githubusercontent.com/85323719/223073170-daf92f28-4fd2-4b50-8552-af7019b49fdf.png)
-
 
 ![Screenshot 2023-03-06 150344](https://user-images.githubusercontent.com/85323719/223072723-14936174-6698-437f-9e2d-765dd8f0e41d.png)
 
